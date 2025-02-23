@@ -10,7 +10,7 @@ namespace GitImporterDemo
         {
             Console.WriteLine("Git repo creator");
             string gitRepoPath = "C:/GitDemoRepository"; // Specify where to create/use the Git repo
-            // TODO: You might need to initialize an empty Git repository at gitRepoPath beforehand
+            
 
             // Example Author Mapping
             IAuthorsMap authorsMap = new MyAuthorsMap(); // Create your own implementation
