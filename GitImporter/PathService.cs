@@ -62,6 +62,6 @@ internal class PathService : IPathService
             return path.Substring(path.IndexOf('/', "tags/".Length) + 1);
         }
 
-        return BranchTagService.DefaultBranchName;
+        return path;
     }
 }
