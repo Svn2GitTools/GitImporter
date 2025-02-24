@@ -10,8 +10,9 @@
     <projectUrl>https://github.com/Svn2GitTools/GitImporter</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
+    <readme>../../readme.md</readme>
     <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
     <copyright>Copyright 2025</copyright>
-    <tags>git import file changes C# console NET9.0</tags>
+    <tags>git import changes C#  NET9.0</tags>
   </metadata>
 </package>
