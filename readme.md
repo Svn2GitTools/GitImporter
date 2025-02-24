@@ -1,5 +1,5 @@
 # GitImporter
-
+[![NuGet Package](https://img.shields.io/nuget/v/GitImporter?style=flat-square)](https://www.nuget.org/packages/GitImporter)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 # Overview
